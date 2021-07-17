@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596927601650",
+    "project_id": "bts-task-b15ec",
+    "storage_bucket": "bts-task-b15ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596927601650:android:f2ffb16eef6fb63fd7e96b",
+        "android_client_info": {
+          "package_name": "com.example.bts_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596927601650-4arhm7q05839m42q8a1jngnk6nse7htv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArBPowTGyzjIfwRGS7P0Cto7depFPeQKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596927601650-4arhm7q05839m42q8a1jngnk6nse7htv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
